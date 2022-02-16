@@ -19,6 +19,6 @@ Experimentally derive the relationship between speed of sound in the air and tem
 ### Files
 
 - `project.ino`: to load on your board
-- `logger.pd`: to serial read data from the board and write in a txt file
+- `logger.pde`: to serial read data from the board and write in a txt file
 - `data0.csv`: data ready csv
 - `analysis`: jupyter notebook containing python code
