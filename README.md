@@ -22,4 +22,4 @@ Experimentally derive the relationship between speed of sound in the air and tem
 - `logger.pde`: to serial read data from the board and write in a txt file
 - `data0.csv`: data ready csv
 - `analysis.ipynb`: jupyter notebook containing python code
-- `analysis - Jupyter Notebook.htm`: screenshot of notebook (static)
+- `analysis - Jupyter Notebook.htm`: screenshot of notebook (static) with relative files folder
